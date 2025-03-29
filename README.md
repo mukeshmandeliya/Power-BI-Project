@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5869d46f-2a92-43bd-afae-72b37fead7a3)
+
 "SUPER STORE SALES DASHBOARD"
 
 Overall Sales Performance
